@@ -1,4 +1,5 @@
-JS_INTRO - Programování v jazyce JavaScript I
+# JS_INTRO - Programování v jazyce JavaScript I
+
 Pokud hledáte cestu jak začít s programováním, nebo pouze potřebujete poskytnout nějakou základní funkčnost vaší HTML stránce, tohle je správný kurz, od kterého začít. Naučíme vás základní koncepty, jako jsou konstanty a proměnné, datové typy hodnot, smyčky a rozhodování v kódu. Příklady budou převeny v prohlížeči, v kontextu HTML stránky, takže výsledky vaší snahy okamžitě uvidíte.
 
 #### Co Vás naučíme
