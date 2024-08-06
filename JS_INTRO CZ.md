@@ -6,6 +6,8 @@ Pokud hledáte cestu jak začít s programováním, nebo pouze potřebujete posk
 
 Kurz je určen pro začínající programátory, případně pro programátory v jiných jazycích, kteří se chtějí naučit základní syntaxi jazyka JavaScript, ať už jako prostředek pro jednoduché skriptování HTML stránek, nebo jako základ pro další budoucí vzdělávání ve vývoji celých aplikací pomocí tohoto jazyka.
 
+Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce, doporučuje se základní znalost algoritmizace a programování na úrovni kurzu PRG, případně zkušenosti s programováním v jiném jazyce.
+
 #### Délka
 
 5 dní
