@@ -2,6 +2,10 @@
 
 Pokud hledáte cestu jak začít s programováním, nebo pouze potřebujete poskytnout nějakou základní funkčnost vaší HTML stránce, tohle je správný kurz, od kterého začít. Naučíme vás základní koncepty, jako jsou konstanty a proměnné, datové typy hodnot, smyčky a rozhodování v kódu. Příklady budou převeny v prohlížeči, v kontextu HTML stránky, takže výsledky vaší snahy okamžitě uvidíte.
 
+#### Pro koho je kurz určen
+
+Kurz je určen pro začínající programátory, případně pro programátory v jiných jazycích, kteří se chtějí naučit základní syntaxi jazyka JavaScript, ať už jako prostředek pro jednoduché skriptování HTML stránek, nebo jako základ pro další budoucí vzdělávání ve vývoji celých aplikací pomocí tohoto jazyka.
+
 #### Délka
 
 5 dní
@@ -15,40 +19,39 @@ graph TD
 
 #### Co Vás naučíme
 
-* Možná využití jazyka JavaScript
-* Základní syntaxi jazyka JavaScript
-* Používat vestavěné objekty v JavaScriptu
-* Vytvářet jednoduché dynamické HTML stránky
+- Možná využití jazyka JavaScript
+- Základní syntaxi jazyka JavaScript
+- Používat vestavěné objekty v JavaScriptu
+- Vytvářet jednoduché dynamické HTML stránky
 
 #### Požadované vstupní znalosti
 
-* Základní znalost algoritmizace a programování na úrovni kurzu PRG, případně zkušenosti s programováním v jiném jazyce.
-* Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce
+- Základní znalost algoritmizace a programování na úrovni kurzu PRG, případně zkušenosti s programováním v jiném jazyce.
+- Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce
 
 #### Metody výuky
 
-* Odborný výklad s praktickými ukázkami, cvičení na počítačích.
+- Odborný výklad s praktickými ukázkami, cvičení na počítačích.
 
 #### Studijní materiály
 
-* Prezentace probírané látky v tištěné nebo online formě
+- Prezentace probírané látky v tištěné nebo online formě
 
 #### Osnova kurzu
 
-### Úvod a základní koncepty
+Úvod a základní koncepty
 - Úvod do JavaScriptu
   - Vlastnosti jazyka JavaScript
   - Historie a vývoj JavaScriptu
   - Transpilace a minifikace
   - Doporučené zdroje
  
-### Možná využití v prohlížeči i mimo něj
+Možná využití v prohlížeči i mimo něj
   - JavaScript v prohlížeči (Front-end)
   - JavaScript mimo prohlížeč (Backend, Node.js)
   - Vývojové prostředí
 
-
-### Základy jazyka JavaScript
+Základy jazyka JavaScript
 - Hodnoty a datové typy
   - Primitivní datové typy (Number, String, Boolean, null, undefined)
   - Komplexní datové typy (Object, Array)
@@ -59,15 +62,13 @@ graph TD
   - Interpolace řetězců
   - Víceřádkové řetězce
 
-
-### Výrazy a operátory
+Výrazy a operátory
 - Aritmetické operátory
 - Logické operátory
 - Porovnávací operátory
 - Podmíněné (ternární) operátory
 
-
-### Funkce a jejich použití
+Funkce a jejich použití
 - Deklarace funkcí
   - Funkční deklarace vs. funkční výrazy
   - Arrow functions
@@ -77,8 +78,7 @@ graph TD
   - Block a function scope
   - Anonymní a samospouštěcí funkce (IIFE)
 
-
-### Podmínky a cykly
+Podmínky a cykly
 - Podmíněné konstrukce
   - if
   - switch
@@ -86,8 +86,7 @@ graph TD
   - for, while, do-while
   - Iterační metody pro Arrays (forEach, map, filter)
 
-
-### Práce s objekty a vestavěné objekty
+Práce s objekty a vestavěné objekty
 - JavaScript Object Model
   - Tvorba a manipulace s objekty
 - Objekt String
@@ -99,8 +98,7 @@ graph TD
 - Objekt Math
   - Metody pro práci s matematickými funkcemi
 
-
-### Pokročilé koncepty a praktické příklady (volitelně)
+Pokročilé koncepty a praktické příklady (volitelně)
 - Anonymní funkce a Arrow functions
 - Rest a Spread operátory
 - Moduly (Modules)
@@ -108,8 +106,7 @@ graph TD
   - Strukturování kódu pomocí modulů
 - Nástroje pro správu balíčků (npm, Yarn)
 
-
-### Praktické využití JS
+Praktické využití JS
 - Demonstrace využití v prohlížeči
   - Manipulace DOM pomocí JavaScriptu
 - Demonstrace využití mimo prohlížeč
