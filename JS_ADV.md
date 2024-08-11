@@ -13,6 +13,9 @@ graph TD
     JS_INTRO --> JS_ADV
 ```
 
+#### Pro koho je kurz určen
+Kurz je určen pro JS programátory, kteří již zvládli syntaxi jazyka a jou připraveni se seznámit se složitějšími konceptry, které přináší funkcionální a opběktově-orientované paradigma. Cílem je přejít z programování izolovaných algorytmů na vývoj aplikací.
+
 #### Co Vás naučíme
 
 - základy oběktově orientovaného programování v JS
