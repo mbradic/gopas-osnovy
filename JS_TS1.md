@@ -1,4 +1,4 @@
-# GOC2124 - Jazyk C# - programování I
+# JS_TS1 - TypeScript - typová kontrola pro JavaScript
 
 Pokud jste si oblíbili JavaScript, ale chybí vám typové deklarace a statická kontrola jejich konsistence, TypeScript je to správné rožíření JS pro vás. Naučíme vás jak základní koncepty typových definic, tak i pokročilé koncepty jako jsou exhaustvness check klauzule či typová aritmetika.
 
