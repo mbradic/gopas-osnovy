@@ -1,46 +1,36 @@
 # JS_INTRO - Programování v jazyce JavaScript I
 
-Pokud hledáte cestu jak začít s programováním, nebo pouze potřebujete poskytnout nějakou základní funkčnost vaší HTML stránce, tohle je správný kurz, od kterého začít. Naučíme vás základní koncepty, jako jsou konstanty a proměnné, datové typy hodnot, smyčky a rozhodování v kódu. Příklady budou převeny v prohlížeči, v kontextu HTML stránky, takže výsledky vaší snahy okamžitě uvidíte.
-
-#### Pro koho je kurz určen
-
-Kurz je určen pro začínající programátory, případně pro programátory v jiných jazycích, kteří se chtějí naučit základní syntaxi jazyka JavaScript, ať už jako prostředek pro jednoduché skriptování HTML stránek, nebo jako základ pro další budoucí vzdělávání ve vývoji celých aplikací pomocí tohoto jazyka.
-
-Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce, doporučuje se základní znalost algoritmizace a programování na úrovni kurzu PRG, případně zkušenosti s programováním v jiném jazyce.
+Kurz je určen všem, kteří se chtějí naučit základy skriptovacího jazyka JavaScript, využívat ho na klientské nebo serverové straně webových aplikací nebo pro testování, popřípadě jako odrazový můstek pro jazyk TypeScript. Účastníci se seznámí s primitivními a komplexními datovými typy, deklarací proměnných, použitím výrazů a operátorů, tvorbou a používáním funkcí, podmínkami a cykly. Dále se naučí pracovat s vestavěnými objekty jako jsou String, Array, Date a Math. Kurz také zahrnuje pokročilejší koncepty jako jsou anonymní funkce, Arrow functions, Rest a Spread operátory, a moduly. Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce, doporučuje se základní znalost algoritmizace a programování na úrovni kurzu [PRG], případně základní zkušenosti s programováním v jiném jazyce.
 
 #### Délka
-
 5 dní
 
 #### Graf návazností
-
 ```mermaid
 graph TD
     PRG --> JS_INTRO
 ```
+#### Pro koho je kurz určen
+- Kurz je určen pro začínající programátory, případně pro programátory v jiných jazycích, kteří se chtějí naučit základní syntaxi jazyka JavaScript, ať už jako prostředek pro jednoduché skriptování HTML stránek, nebo jako základ pro další budoucí vzdělávání ve vývoji celých aplikací pomocí tohoto jazyka.
+- Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce, doporučuje se základní znalost algoritmizace a programování na úrovni kurzu [PRG], případně zkušenosti s programováním v jiném jazyce.
 
 #### Co Vás naučíme
-
 - Možná využití jazyka JavaScript
-- Základní syntaxi jazyka JavaScript
+- Základní syntaxi jazyka JavaScript 
 - Používat vestavěné objekty v JavaScriptu
 - Vytvářet jednoduché dynamické HTML stránky
 
 #### Požadované vstupní znalosti
-
 - Základní znalost algoritmizace a programování na úrovni kurzu PRG, případně zkušenosti s programováním v jiném jazyce.
 - Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce
 
 #### Metody výuky
-
 - Odborný výklad s praktickými ukázkami, cvičení na počítačích.
 
 #### Studijní materiály
-
 - Prezentace probírané látky v tištěné nebo online formě
 
 #### Osnova kurzu
-
 Úvod a základní koncepty
 - Úvod do JavaScriptu
   - Vlastnosti jazyka JavaScript
