@@ -13,6 +13,10 @@ graph TD
     PRG --> GOC2124
 ```
 
+#### Pro koho je kurz určen
+
+
+
 #### Co Vás naučíme
 
 - Přehled platformy Microsoft .NET
