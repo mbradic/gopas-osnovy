@@ -1,7 +1,7 @@
 # Mapa oblasti JavaScript
 
 ```mermaid
-graph TD
+graph LR
     subgraph Mimo oblast JavaScript
         PRG
         HTMLCSS
@@ -25,6 +25,7 @@ graph TD
         end
         subgraph Testování
             JS_TEST_JEST
+            TESTING_RESTAPI
         end
         JS_WEBSOCKET
     end
