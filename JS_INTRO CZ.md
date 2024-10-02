@@ -3,18 +3,23 @@
 Kurz je určen všem, kteří se chtějí naučit základy skriptovacího jazyka JavaScript, využívat ho na klientské nebo serverové straně webových aplikací nebo pro testování, popřípadě jako odrazový můstek pro jazyk TypeScript. Účastníci se seznámí s primitivními a komplexními datovými typy, deklarací proměnných, použitím výrazů a operátorů, tvorbou a používáním funkcí, podmínkami a cykly. Dále se naučí pracovat s vestavěnými objekty jako jsou String, Array, Date a Math. Kurz také zahrnuje pokročilejší koncepty jako jsou anonymní funkce, Arrow functions, Rest a Spread operátory, a moduly. Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce, doporučuje se základní znalost algoritmizace a programování na úrovni kurzu [PRG], případně základní zkušenosti s programováním v jiném jazyce.
 
 #### Délka
+
 5 dní
 
 #### Graf návazností
+
 ```mermaid
 graph TD
     PRG --> JS_INTRO
 ```
+
 #### Pro koho je kurz určen
+
 - Kurz je určen pro začínající programátory, případně pro programátory v jiných jazycích, kteří se chtějí naučit základní syntaxi jazyka JavaScript, ať už jako prostředek pro jednoduché skriptování HTML stránek, nebo jako základ pro další budoucí vzdělávání ve vývoji celých aplikací pomocí tohoto jazyka.
 - Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce, doporučuje se základní znalost algoritmizace a programování na úrovni kurzu [PRG], případně zkušenosti s programováním v jiném jazyce.
 
 #### Co Vás naučíme
+
 - Možná využití jazyka JavaScript
 - Základní syntaxi jazyka JavaScript 
 - Používat vestavěné objekty v JavaScriptu

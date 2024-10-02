@@ -1,6 +1,6 @@
 # JS_REACT1 - Úvod do React.js
 
-Naučíte se základy vývoje React aplikací, jako je prezentace dat, reakce na uživatelské události, tvorbu formulářů a komunikaci s back-endem a navigaci. Také se naučíte základy architektury a designu React aplikací, pomocí konceptů, jako jsou komponenty, vlastnosti, hooky a správa savu.
+Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří se chtějí naučit základy vývoje front-end web aplikací pomocí frameworku React. Student se seznámí se základy vývoje React aplikací, jako je prezentace dat, reakce na uživatelské události, tvorbu formulářů a komunikaci s back-endem a navigaci. Také se naučíte základy architektury a designu React aplikací, pomocí konceptů, jako jsou komponenty, vlastnosti, hooky a správa savu. Kurz předpokládá znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1] a mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_ADV].
 
 #### Délka
 
@@ -16,7 +16,7 @@ graph TD
 
 #### Pro koho je kurz určen
 
-Kurz je určen pro studenty, kteří se chtějí naučit základy vývoje front-end web aplikací pomocí frameworku React.
+Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří se chtějí naučit základy vývoje front-end web aplikací pomocí frameworku React.
 
 #### Co Vás naučíme
 

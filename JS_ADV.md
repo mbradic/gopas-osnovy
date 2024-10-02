@@ -1,6 +1,7 @@
 # JS_ADV - Programování v jazyce JavaScript II
 
-Kurz představuje JavaScript jak jako funkcionální, tak jako objektově-orientovaný jazyk a dává úvod do asynchronního programování.
+Kurz je určen pro JS programátory, kteří již zvládli syntaxi jazyka a jou připraveni se seznámit se složitějšími konceptry, které přináší funkcionální a opběktově-orientované paradigma.Účastníci se též seznámí se správou chyb, prací s daty ve formátu JSON a se základy asynchroního programování. Cílem je přejít z programování izolovaných algorytmů na vývoj aplikací.
+Kurz předpokládá znalost základní syntaxe jazyka JavaScript na úrovni kurzu [JS_INTRO]
 
 #### Délka
 
@@ -14,7 +15,8 @@ graph TD
 ```
 
 #### Pro koho je kurz určen
-Kurz je určen pro JS programátory, kteří již zvládli syntaxi jazyka a jou připraveni se seznámit se složitějšími konceptry, které přináší funkcionální a opběktově-orientované paradigma. Cílem je přejít z programování izolovaných algorytmů na vývoj aplikací.
+
+Kurz je určen pro JS programátory, kteří již zvládli syntaxi jazyka a jou připraveni se seznámit se složitějšími konceptry, které přináší funkcionální a opběktově-orientované paradigma.
 
 #### Co Vás naučíme
 
@@ -40,11 +42,13 @@ Kurz je určen pro JS programátory, kteří již zvládli syntaxi jazyka a jou 
 #### Osnova kurzu
 
 Úvod a základní koncepty
+
 - Stručná rekapitulace základů JS
 - Použití var, let, const
 - Hodnotové a referenční typy
 
 Funkce
+
 - Funkce jako objekt
 - Lokální funkce
 - Přetěžování funkcí
@@ -54,6 +58,7 @@ Funkce
 - Arrow funkce
 
 Objektové programování
+
 - Object initializer
 - Konstrukční funkce
 - Class
@@ -63,16 +68,19 @@ Objektové programování
 - Optional Chaining
 
 Error handling a debugging
+
 - Try...catch a finally
 - Custom Error objekty
 - Debugging techniky v moderních prohlížečích a Node.js
 - Použití debuggeru
 
 JSON (JavaScript Object Notation)
+
 - Parsování a serializace JSON dat
 - Práce s JSON v rámci aplikací
 
 Úvod do asynchronního programování
+
 - Timery (setTimeout, setInterval)
 - Promise a async / await (základní použití)
 - Handling multiple asynchronous operations (Promise.all, Promise.race)

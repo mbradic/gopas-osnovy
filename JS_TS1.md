@@ -1,6 +1,6 @@
 # JS_TS1 - TypeScript - typová kontrola pro JavaScript
 
-Pokud jste si oblíbili JavaScript, ale chybí vám typové deklarace a statická kontrola jejich konsistence, TypeScript je to správné rožíření JS pro vás. Naučíme vás jak základní koncepty typových definic, tak i pokročilé koncepty jako jsou exhaustvness check klauzule či typová aritmetika.
+Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří chtějí používat TypeScript pro statickou kontolu typové konsistence. Účastníci se seznámí s jak základní koncepty typových definic, tak i s pokročilímy koncepty jako jsou exhaustvness check klauzule či typová aritmetika. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_ADV].
 
 #### Délka
 

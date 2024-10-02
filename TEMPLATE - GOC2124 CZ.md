@@ -1,5 +1,7 @@
 # GOC2124 - Jazyk C# - programování I
 
+Kurz je určen `<komu>`, kteří `<omezení>`. Účastníci se seznámí s `<co vás naučíme>`. Kurz předpokládá znalost `<předpokládané znalosti>`.
+
 Kurz je určen pro všechny programátory, kteří chtějí získat znalosti a dovednosti s vytvářením aplikací v jazyce C# na platformě Microsoft .NET. Na kurzu získáte přehled o platformě Microsoft .NET a jejím vývojovém prostředí Microsoft Visual Studiu .NET. Seznámíte se s jazykem C# s důrazem na základy samotného jazyka a úvod do objektově orientovaného programování. Kurz předpokládá základní znalosti programování v libovolném jazyce. Kurz není vhodný pro úplné začátečníky. začátečníkům doporučujeme navštívit nejprve kurz Úvod do algoritmizace a programování [PRG].
 
 #### Délka
@@ -14,7 +16,6 @@ graph TD
 ```
 
 #### Pro koho je kurz určen
-
 
 
 #### Co Vás naučíme
