@@ -6,11 +6,11 @@ graph TD
         PRG
         HTMLCSS
     end
-    subgraph JS začátečníci
+    subgraph Začátečníci
         JS_INTRO
         JS_DOM1
     end
-    subgraph JS pokročilý
+    subgraph Pokročilý
         JS_ADV
         JS_TS1
         subgraph Front-end
@@ -28,6 +28,9 @@ graph TD
         end
         JS_WEBSOCKET
     end
+    subgraph Expert
+        JS_ASYNC
+    end
 
     PRG --> JS_INTRO
     HTMLCSS --> JS_DOM1
@@ -38,6 +41,7 @@ graph TD
     HTMLCSS --> Back-end
     JS_ADV  --> Back-end
     
+    JS_ADV --> Expert
     
     JS_INTRO --> JS_DOM1
     JS_INTRO --> JS_ADV

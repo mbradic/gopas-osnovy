@@ -1,6 +1,6 @@
-# GOC2124 - Jazyk C# - programování I
+# JS_ASYNC - Asynchronní a reaktivní programování v JavaScriptu
 
-Kurz je určen pro JavaScript programátory, kteří si chtějí zdokonalit psaní asynchronního kódu v tomto jazyce. Ukážeme vám jak používat vestavěné asynchronní mechanismy, jako jsou timery, funkce fetch, nebo asynchronní přístup na filesystém z Node.js. Vysvětlíme si objekt Promise a klíčová slova async a await, ale také externí knihovnu rxjs a její Observables.
+Kurz je určen pro JavaScript programátory, kteří si chtějí zdokonalit psaní asynchronního kódu v tomto jazyce. Ukážeme vám jak používat vestavěné asynchronní mechanismy, jako jsou timery, funkce fetch, nebo asynchronní přístup na filesystém z Node.js. Vysvětlíme si objekt Promise a klíčová slova async a await, ale také externí knihovnu rxjs a její Observables. Kurz předpokládá mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_ADV].
 
 #### Délka
 
