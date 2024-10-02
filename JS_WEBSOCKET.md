@@ -1,6 +1,6 @@
 # JS_WEBSOCKET - Tvorba JS aplikací s využitím protokolu WebSocket
 
-Pokud vaše webová aplikace potřebuje něco víc než HTTP Request / Response model, tohle je kurz pro Vás. WebSocket protokol umožňuje serveru notifikovat jednoho nebo více klientů, či streamovat data.
+Kurz je určen pro mírně pokročilé JavaScript programátory, kteří ve svých aplikacích potřebují víc než HTTP Request / Response model. WebSocket protokol umožňuje serveru notifikovat jednoho nebo více klientů, či streamovat data. Účastníci se seznámí s využitím tohoto protokolu ve webových plaikacích. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_ADV].
 
 #### Délka
 

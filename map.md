@@ -23,15 +23,24 @@ graph TD
         subgraph Back-end
             JS_EXPRESS1
         end
+        JS_WEBSOCKET
     end
+
     PRG --> JS_INTRO
     HTMLCSS --> JS_DOM1
-    JS_INTRO --> JS_DOM1
-    JS_INTRO --> JS_ADV
+    
     JS_DOM1 --> Front-end
     JS_ADV  --> Front-end
-    JS_ADV --> JS_TS1
-    JS_TS1 --> JS_ANGULAR1
+    
     HTMLCSS --> Back-end
     JS_ADV  --> Back-end
+    
+    
+    JS_INTRO --> JS_DOM1
+    JS_INTRO --> JS_ADV
+    
+    JS_ADV --> JS_TS1
+    JS_TS1 --> JS_ANGULAR1
+    
+    JS_ADV --> JS_WEBSOCKET
 ```
