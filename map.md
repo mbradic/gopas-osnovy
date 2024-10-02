@@ -32,6 +32,7 @@ graph LR
     subgraph Expert
         JS_ASYNC
         JS_REACT2
+        JS_ANGULAR2
     end
 
     PRG --> JS_INTRO
@@ -56,4 +57,6 @@ graph LR
     JS_ADV --> JS_TEST_JEST
 
     JS_REACT1 --> JS_REACT2
+    JS_TS1 --> JS_ANGULAR2
+    JS_ANGULAR1 --> JS_ANGULAR2
 ```
