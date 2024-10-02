@@ -23,6 +23,9 @@ graph TD
         subgraph Back-end
             JS_EXPRESS1
         end
+        subgraph Testování
+            JS_TEST_JEST
+        end
         JS_WEBSOCKET
     end
 
@@ -31,7 +34,7 @@ graph TD
     
     JS_DOM1 --> Front-end
     JS_ADV  --> Front-end
-    
+
     HTMLCSS --> Back-end
     JS_ADV  --> Back-end
     
@@ -43,4 +46,6 @@ graph TD
     JS_TS1 --> JS_ANGULAR1
     
     JS_ADV --> JS_WEBSOCKET
+
+    JS_ADV --> JS_TEST_JEST
 ```
