@@ -30,6 +30,7 @@ graph TD
     end
     subgraph Expert
         JS_ASYNC
+        JS_REACT2
     end
 
     PRG --> JS_INTRO
@@ -52,4 +53,6 @@ graph TD
     JS_ADV --> JS_WEBSOCKET
 
     JS_ADV --> JS_TEST_JEST
+
+    JS_REACT1 --> JS_REACT2
 ```
