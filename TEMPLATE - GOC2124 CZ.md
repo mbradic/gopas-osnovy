@@ -6,7 +6,7 @@ Kurz je určen pro všechny programátory, kteří chtějí získat znalosti a d
 
 #### Délka
 
-4 dny
+5 dny
 
 #### Graf návazností
 
