@@ -61,6 +61,22 @@ const rules = [
       writeFileSync(fileName, content);
     },
   },
+  {
+    id: 3,
+    description: "Course title must not contain trailing spaces.",
+    level: "error",
+    validate: (fileName) => {
+      const content = readFileSync(fileName, { encoding: "utf-8" });
+      const firstLine = content.split("\r\n")[0];
+      return !firstLine.endsWith(" ");
+    },
+    fix: (fileName) => {
+      const content = readFileSync(fileName, { encoding: "utf-8" });
+      const lines = content.split("\r\n");
+      lines[0] = lines[0].trim();
+      writeFileSync(fileName, lines.join("\r\n"));
+    },
+  },
 ];
 
 const params = [process.argv[2], process.argv[3]];
@@ -73,7 +89,7 @@ let success = true;
 
 const fileNames = readdirSync(path).filter(
   (fileName) =>
-    lstatSync(fileName).isFile() && fileName.toLowerCase().endsWith(".md")
+    fileName.toLowerCase().endsWith(".md")
 );
 
 for (const file of fileNames) {
