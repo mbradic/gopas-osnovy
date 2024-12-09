@@ -1,4 +1,4 @@
-JS_REACT2 - React.js II: Advanced techniques
+# JS_REACT2 - React.js II: Advanced techniques
 
 This course is designed for advanced JavaScript programmers who want to expand their knowledge of front-end application development in React. The course will give you an overview of hook functions, memoization, reducers and server-side components. The course assumes knowledge of JavaScript at the [JS_ADV] course level and knowledge of the React library at the [JS_REACT1] course level.
 

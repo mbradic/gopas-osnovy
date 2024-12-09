@@ -1,4 +1,4 @@
-JS_SOLID1 - Introduction to Solid.js framework
+# JS_SOLID1 - Introduction to Solid.js framework
 
 This course is designed for intermediate JS programmers who want to learn how to create front-end applications using the SolidJS framework. Participants will learn about presenting data, working with forms, and communicating with the backend, all using the components, signals, and effects provided by the SolidJS library. The course assumes knowledge of the DOM object model in the browser at the course level [JS_DOM1] and moderately advanced knowledge of JavaScript at the course level [JS_ADV].
 

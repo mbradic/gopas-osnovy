@@ -1,4 +1,4 @@
-JS_DOM1 - DOM v JavaScriptu I: Základy
+# JS_DOM1 - DOM v JavaScriptu I: Základy
 
 Kurz se věnuje využití jazyka JavaScript v kontextu dynamické HTML stránky. Potřebujete jednoduchou logiku pod tlačítko, chytrou navigaci na stránkách, nebo jen odeslat formulář na server? Nebo vstupujete do světa front-end web developmentu a hledáte první krok směrem k vývoji aplikací v Reactu, Angularu či Vue? Tohle je kurz pro vás.
 

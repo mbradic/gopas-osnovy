@@ -1,4 +1,4 @@
-JS_AJAX - Communication with server using AJAX and Fetch API  
+# JS_AJAX - Communication with server using AJAX and Fetch API  
 AJAX (and its successor Fetch API) allow a web application to send data to and fetch data from a server using the HTTP protocol without refreshing the page. This course is designed for JavaScript programmers who want to understand not only the principles of HTTP but also how to handle asynchronous requests in a modern way in a variety of scenarios.   
 
 Duration: 2 days

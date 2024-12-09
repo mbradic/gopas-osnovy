@@ -1,4 +1,4 @@
-JS_DOM2 - DOM in JavaScript II: Advanced Techniques
+# JS_DOM2 - DOM in JavaScript II: Advanced Techniques
 
 Only the javascript APIs built into modern browsers are what turn a web page into a full-fledged web application, whether it's graphics, interactivity, data handling, or reading inputs from the real world. The possibilities are limited only by security and privacy or hardware performance.
 
@@ -79,4 +79,3 @@ Service worker (resource caching, offline applications)
 
 Reacting to page scrolling, lazy-loading
 * InterSection Observer
-

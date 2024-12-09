@@ -1,4 +1,4 @@
-JS_INTRO - JavaScript I: Základy
+# JS_INTRO - JavaScript I: Základy
 
 Kurz je určen všem, kteří se chtějí naučit základy skriptovacího jazyka JavaScript, využívat ho na klientské nebo serverové straně webových aplikací nebo pro testování, popřípadě jako odrazový můstek pro jazyk TypeScript. Účastníci se seznámí s primitivními a komplexními datovými typy, deklarací proměnných, použitím výrazů a operátorů, tvorbou a používáním funkcí, podmínkami a cykly. Dále se naučí pracovat s vestavěnými objekty jako jsou String, Array, Date a Math. Kurz také zahrnuje pokročilejší koncepty jako jsou anonymní funkce, Arrow functions, Rest a Spread operátory, a moduly. Kurz není vhodný pro úplné začátečníky, kteří neprogramovali nikdy v žádném programovacím jazyce, doporučuje se základní znalost algoritmizace a programování na úrovni kurzu [PRG], případně základní zkušenosti s programováním v jiném jazyce.
 

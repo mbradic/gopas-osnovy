@@ -1,4 +1,4 @@
-﻿JS_VUE1 - Úvod do Vue.js
+# JS_VUE1 - Úvod do Vue.js
 
 V tomto kurzu se seznámíme s populárním Javascriptovým frameworkem Vue.js. Kurz je zaměřen na pochopení konceptu Vue.js a jeho základní funkcionality, přičemž si v rámci kurzu vytvoříme jednoduchou single page aplikaci. Naučíte se používat routing, seznámíte se s životním cyklem aplikace a state managementem a naučíte se pracovat také s formuláři a dalšími pomocnými knihovnami.
 

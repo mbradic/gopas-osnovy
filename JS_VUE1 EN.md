@@ -1,4 +1,4 @@
-﻿JS_VUE1 - Introduction to Vue.js
+# JS_VUE1 - Introduction to Vue.js
 
 In this tutorial, we will learn about the popular Javascript framework Vue.js. The course focuses on understanding the concept of Vue.js and its basic functionality, and we will create a simple single page application. You will learn how to use routing, get familiar with the application lifecycle and state management, and learn how to work with forms and other helper libraries.
 

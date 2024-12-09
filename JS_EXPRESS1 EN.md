@@ -1,4 +1,4 @@
-JS_EXPRESS1 - Creating backend applications using Express.js
+# JS_EXPRESS1 - Creating backend applications using Express.js
 
 This course is designed for programmers who want to use JavaScript server-side, either for creating interactive server-side applications or for creating REST APIs. Participants will learn about request processing using middleware functions, creating server-side HTML applications, and creating REST APIs. The course assumes knowledge of HTML at the [HTMLCSS] course level and moderately advanced JavaScript programming at the [JS_ADV] course level.
 

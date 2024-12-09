@@ -1,4 +1,4 @@
-JS_EXPRESS1 - Tvorba backend aplikací pomocí Express.js
+# JS_EXPRESS1 - Tvorba backend aplikací pomocí Express.js
 
 Kurz je určen pro programátory, kteří chtějí použít JavaScript na straně serveru, ať už pro tvorbu interaktivních serverových aplikací, tak pro tvorbu REST API. Účastníci se seznámí se zpracováním requestu pomocí middleware funkcí, tvornou server-side HTML aplikací a tvorbou REST API. Kurz předpokládá znalost HTML na úrovni kurzu [HTMLCSS] a mírně pokročilé programování v jazyce JavaScript na úrovni kurzu [JS_ADV].
 

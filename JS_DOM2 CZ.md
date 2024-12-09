@@ -1,4 +1,4 @@
-JS_DOM2 - DOM v JavaScriptu II: Pokročilé techniky
+# JS_DOM2 - DOM v JavaScriptu II: Pokročilé techniky
   
 Teprve javascriptová API vestavěná v moderních prohlížečích jsou tím, co webovou stránku promění v plnohodnotnou webovou aplikaci ať už se to týká grafiky, interaktivity, práce s daty nebo načítání vstupů z reálného světa. Možnosti jsou omezené jen bezpečností a ochranou soukromí případně výkonem hardware.
 

@@ -1,4 +1,4 @@
-JS_AJAX - Komunikace se serverem pomocí AJAX a Fetch API  
+# JS_AJAX - Komunikace se serverem pomocí AJAX a Fetch API  
 AJAX (a jeho nástupce Fetch API) umožňují webové aplikaci posílat data na server a stahovat je ze serveru pomocí HTTP protokolu bez obnovení stránky. Kurz je určen pro programátory JavaScriptu, kteří chtějí pochopit nejen principy HTTP ale i zpracování asynchronních požadavků moderním způsobem v nejrůznějších scénářích.   
 
 Délka: 2 dny
