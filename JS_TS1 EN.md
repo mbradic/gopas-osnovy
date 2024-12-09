@@ -19,12 +19,12 @@ This course is designed for JavaScript developers who want to learn how to use t
 
 #### What we will teach you
 
-- basic data types, including any, uknown, and never
-- enumeration
-- object types
-- union and intersection types
-- functional types
-- classes and interfaces
+- Basic data types, including any, uknown, and never
+- Enumeration
+- Object types
+- Union and intersection types
+- Functional types
+- Classes and interfaces
 
 #### Required input knowledge
 

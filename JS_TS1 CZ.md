@@ -19,12 +19,12 @@ Kurz je určen pro vývojáře v Jazyce JavaScript, kteří se chtějí naučit 
 
 #### Co Vás naučíme
 
-- základní datové typy, včetně any, uknown a never
-- enumerace
-- objektové typy
-- union a intersection typy
-- funkcionální typy
-- třídy a rozhraní
+- Základní datové typy, včetně any, uknown a never
+- Enumerace
+- Objektové typy
+- Union a intersection typy
+- Funkcionální typy
+- Třídy a rozhraní
 
 #### Požadované vstupní znalosti
 
