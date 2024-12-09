@@ -1,4 +1,4 @@
-JS_DOM1 - Programming in JavaScript I
+JS_DOM1 - DOM in JavaScript I: Basics
 
 This course focuses on the use of JavaScript in the context of a dynamic HTML page. Do you need simple logic under a button, smart navigation on a page, or just to submit a form to a server? Or are you entering the world of front-end web development and looking for a first step towards developing applications in React, Angular or Vue? This is the course for you.
 
@@ -8,7 +8,7 @@ This course focuses on the use of JavaScript in the context of a dynamic HTML pa
 
 #### Connection Chart
 
-``mermaid
+```mermaid
 graph TD
     HTMLCSS --> JS_DOM1
     JS_INTRO --> JS_DOM1
