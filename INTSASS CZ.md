@@ -1,4 +1,5 @@
 INTSASS - SASS - prokročilá práce s kaskádovými styly  
+
 Preprocesory, jakýsi mix programování a kaskádovách stylů umožňují vytvářet CSS pro webové aplikace mnohem efektivněji než ruční psaní kaskádových stylů. SASS je dnes nejrozšíženějším preprocesorem v němž jsou psány například zdrojové kódy Bootstrapu.     
 
 Délka: 2 dny

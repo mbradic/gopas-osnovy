@@ -1,4 +1,5 @@
 NTSASS - SASS - advanced work with cascading styles  
+
 Preprocessors, a kind of mix of programming and cascading styles, allow you to create CSS for web applications much more efficiently than writing cascading styles manually. SASS is the most widely used preprocessor today, for example, for writing Bootstrap source code.     
 
 Duration: 2 days
