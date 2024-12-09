@@ -1,6 +1,6 @@
 JS_SVELTE1 - Introduction to the Svelte framework
 
-This course is designed for intermediate JS programmers who want to learn how to create front-end applications using the Svelte framework. Participants will learn the basics of front-end development (data presentation, events, forms, communication with back-end api, navigation) using the SVELTE library. The course assumes knowledge of the DOM object model in the browser at the course level [JS_DOM1] and moderately advanced knowledge of JavaScript at the course level [JS_ADV].
+This course is designed for intermediate JS programmers who want to learn how to create front-end applications using the Svelte framework. Participants will learn the basics of front-end development (data presentation, events, forms, communication with back-end api, navigation) using the SVELTE library. The course assumes knowledge of the DOM object model in the browser at the course level [JS_DOM1] and moderately advanced knowledge of JavaScript at the course level [JS_PROG2].
 
 #### Length
 
@@ -10,7 +10,7 @@ This course is designed for intermediate JS programmers who want to learn how to
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_SVELTE1
+    JS_PROG2 --> JS_SVELTE1
     JS_DOM1 --> JS_SVELTE1
 ```
 
@@ -29,7 +29,7 @@ graph TD
 
 #### Required input knowledge
 
-- JavaScript at course level [JS_ADV]
+- JavaScript at course level [JS_PROG2]
 - Course-level knowledge of how the DOM works in a browser [JS_DOM1]
 
 #### Teaching Methods

@@ -1,6 +1,6 @@
 JS_WEBSOCKET - Tvorba JS aplikací s využitím protokolu WebSocket
 
-Kurz je určen pro mírně pokročilé JavaScript programátory, kteří ve svých aplikacích potřebují víc než HTTP Request / Response model. WebSocket protokol umožňuje serveru notifikovat jednoho nebo více klientů, či streamovat data. Účastníci se seznámí s využitím tohoto protokolu ve webových plaikacích. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_ADV].
+Kurz je určen pro mírně pokročilé JavaScript programátory, kteří ve svých aplikacích potřebují víc než HTTP Request / Response model. WebSocket protokol umožňuje serveru notifikovat jednoho nebo více klientů, či streamovat data. Účastníci se seznámí s využitím tohoto protokolu ve webových plaikacích. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_PROG2].
 
 #### Délka
 
@@ -10,12 +10,12 @@ Kurz je určen pro mírně pokročilé JavaScript programátory, kteří ve svý
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_WEBSOCKET
+    JS_PROG2 --> JS_WEBSOCKET
 ```
 
 #### Pro koho je kurz určen
 
-- Kurz je určen pro JS prográmátory, kteří umí JavaScript na úrovni kurzu [JS_ADV]
+- Kurz je určen pro JS prográmátory, kteří umí JavaScript na úrovni kurzu [JS_PROG2]
 
 #### Co Vás naučíme
 
@@ -25,7 +25,7 @@ graph TD
 
 #### Požadované vstupní znalosti
 
-- JavaScript na úrovni kurzu [JS_ADV]
+- JavaScript na úrovni kurzu [JS_PROG2]
 
 #### Metody výuky
 

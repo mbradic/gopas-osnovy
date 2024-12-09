@@ -11,7 +11,7 @@ Kurz se věnuje využití jazyka JavaScript v kontextu dynamické HTML stránky.
 ```mermaid
 graph TD
     HTMLCSS --> JS_DOM1
-    JS_INTRO --> JS_DOM1
+    JS_PROG1 --> JS_DOM1
 ```
 
 #### Pro koho je kurz určen
@@ -30,7 +30,7 @@ Kurz je určen pro začínající JS programátory, kteří už jsou seznámení
 #### Požadované vstupní znalosti
 
 - Základní znalost jazyka HTML na úrovni kurzu [HTMLCSS].
-- Znalost syntaxe jazyka JavaScript na úrovni kurzu [JS_INTRO].
+- Znalost syntaxe jazyka JavaScript na úrovni kurzu [JS_PROG1].
 
 #### Metody výuky
 

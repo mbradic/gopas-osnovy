@@ -1,7 +1,7 @@
-JS_ADV - JavaScript II: Pokročilé techniky
+JS_PROG2 - JavaScript II: Pokročilé techniky
 
 Kurz je určen pro JS programátory, kteří již zvládli syntaxi jazyka a jou připraveni se seznámit se složitějšími konceptry, které přináší funkcionální a opběktově-orientované paradigma.Účastníci se též seznámí se správou chyb, prací s daty ve formátu JSON a se základy asynchroního programování. Cílem je přejít z programování izolovaných algorytmů na vývoj aplikací.
-Kurz předpokládá znalost základní syntaxe jazyka JavaScript na úrovni kurzu [JS_INTRO]
+Kurz předpokládá znalost základní syntaxe jazyka JavaScript na úrovni kurzu [JS_PROG1]
 
 #### Délka
 
@@ -11,7 +11,7 @@ Kurz předpokládá znalost základní syntaxe jazyka JavaScript na úrovni kurz
 
 ```mermaid
 graph TD
-    JS_INTRO --> JS_ADV
+    JS_PROG1 --> JS_PROG2
 ```
 
 #### Pro koho je kurz určen

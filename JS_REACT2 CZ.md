@@ -1,6 +1,6 @@
 JS_REACT2 - React II: Pokročilé techniky
 
-Kurz je určen pro pokročilé programátory v jazyce JavaScript, kteří chtějí rozšířit své znalosti o vývoji front-end aplikací v prostředí React. Na kurzu získáte přehled o hook funkcích, memoizaci, reducerech a serverových komponentách. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_ADV] a znalost knihovny React na úrovni kurzu [JS_REACT1].
+Kurz je určen pro pokročilé programátory v jazyce JavaScript, kteří chtějí rozšířit své znalosti o vývoji front-end aplikací v prostředí React. Na kurzu získáte přehled o hook funkcích, memoizaci, reducerech a serverových komponentách. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_PROG2] a znalost knihovny React na úrovni kurzu [JS_REACT1].
 
 #### Délka
 
@@ -10,7 +10,7 @@ Kurz je určen pro pokročilé programátory v jazyce JavaScript, kteří chtěj
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_REACT2
+    JS_PROG2 --> JS_REACT2
     JS_REACT1 --> JS_REACT2
 ```
 
@@ -26,7 +26,7 @@ graph TD
 
 #### Požadované vstupní znalosti
 
-- znalost jazyka JavaScript na úrovni kurzu [JS_ADV]
+- znalost jazyka JavaScript na úrovni kurzu [JS_PROG2]
 - znalost knihovny React na úrovni kurzu [JS_REACT1]
 
 #### Metody výuky

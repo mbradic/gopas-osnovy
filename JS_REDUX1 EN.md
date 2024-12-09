@@ -1,6 +1,6 @@
 JS_REDUXJS1 - Redux and its implementation in Angular and React applications
 
-This course is designed for intermediate JavaScript programmers who want to learn how to manage the state of their front-end applications using the Redux library. Participants will learn how to use the objects and features provided by this library for applications developed in React or Angular. The course assumes knowledge of the DOM object model in the browser at the [JS_DOM1] course level and moderately advanced knowledge of JavaScript at the [JS_ADV] course level.
+This course is designed for intermediate JavaScript programmers who want to learn how to manage the state of their front-end applications using the Redux library. Participants will learn how to use the objects and features provided by this library for applications developed in React or Angular. The course assumes knowledge of the DOM object model in the browser at the [JS_DOM1] course level and moderately advanced knowledge of JavaScript at the [JS_PROG2] course level.
 
 #### Length
 
@@ -11,7 +11,7 @@ This course is designed for intermediate JavaScript programmers who want to lear
 ```mermaid
 graph TD
     JS_DOM1 --> JS_REDUX1
-    JS_ADV --> JS_REDUX1
+    JS_PROG2 --> JS_REDUX1
 ```
 
 #### For whom the course is intended
@@ -27,7 +27,7 @@ This course is intended for intermediate JavaScript programmers who want to lear
 #### Required Entry Level Knowledge
 
 - Knowledge of the DOM object model in the browser at the course level [JS_DOM1].
-- Moderately advanced knowledge of JavaScript at the course level [JS_ADV]
+- Moderately advanced knowledge of JavaScript at the course level [JS_PROG2]
 
 #### Teaching methods
 

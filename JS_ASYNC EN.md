@@ -1,6 +1,6 @@
 JS_ASYNC - Asynchronous and reactive programming in JavaScript
 
-This course is designed for JavaScript programmers who want to improve their ability to write asynchronous code in this language. We will show you how to use built-in asynchronous mechanisms such as timers, fetch functions, or asynchronous filesystem access from Node.js. We'll explain the Promise object and the async and await keywords, as well as the external rxjs library and its Observables. This course assumes moderately advanced knowledge of JavaScript at the [JS_ADV] course level.
+This course is designed for JavaScript programmers who want to improve their ability to write asynchronous code in this language. We will show you how to use built-in asynchronous mechanisms such as timers, fetch functions, or asynchronous filesystem access from Node.js. We'll explain the Promise object and the async and await keywords, as well as the external rxjs library and its Observables. This course assumes moderately advanced knowledge of JavaScript at the [JS_PROG2] course level.
 
 #### Length
 
@@ -10,7 +10,7 @@ This course is designed for JavaScript programmers who want to improve their abi
 
 ``mermaid
 graph TD
-    JS_ADV --> JS_ASYNC
+    JS_PROG2 --> JS_ASYNC
 ```
 
 #### For whom the course is intended
@@ -28,7 +28,7 @@ This course is designed for JavaScript programmers who want to improve their ski
 
 #### Required Entry Knowledge
 
-- Knowledge of JavaScript at the course level [JS_ADV].
+- Knowledge of JavaScript at the course level [JS_PROG2].
 
 #### Teaching Methods
 

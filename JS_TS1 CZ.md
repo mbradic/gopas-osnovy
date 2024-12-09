@@ -1,6 +1,6 @@
 JS_TS1 - TypeScript - typová kontrola pro JavaScript
 
-Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří chtějí používat TypeScript pro statickou kontolu typové konsistence. Účastníci se seznámí s jak základní koncepty typových definic, tak i s pokročilímy koncepty jako jsou exhaustvness check klauzule či typová aritmetika. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_ADV].
+Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří chtějí používat TypeScript pro statickou kontolu typové konsistence. Účastníci se seznámí s jak základní koncepty typových definic, tak i s pokročilímy koncepty jako jsou exhaustvness check klauzule či typová aritmetika. Kurz předpokládá znalost jazyka JavaScript na úrovni kurzu [JS_PROG2].
 
 #### Délka
 
@@ -10,12 +10,12 @@ Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteř�
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_TS1
+    JS_PROG2 --> JS_TS1
 ```
 
 #### Pro koho je kurz určen
 
-Kurz je určen pro vývojáře v Jazyce JavaScript, kteří se chtějí naučit využívat typescript pro statickou typovou kontrolu JavaScript kódu. Předpokládá se, že studenti budou umět JavaScript na úrovni kurzu [JS_ADV]
+Kurz je určen pro vývojáře v Jazyce JavaScript, kteří se chtějí naučit využívat typescript pro statickou typovou kontrolu JavaScript kódu. Předpokládá se, že studenti budou umět JavaScript na úrovni kurzu [JS_PROG2]
 
 #### Co Vás naučíme
 
@@ -28,7 +28,7 @@ Kurz je určen pro vývojáře v Jazyce JavaScript, kteří se chtějí naučit 
 
 #### Požadované vstupní znalosti
 
-- JavaScript na úrovni kurzu [JS_ADV]
+- JavaScript na úrovni kurzu [JS_PROG2]
 
 #### Metody výuky
 

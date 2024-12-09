@@ -1,6 +1,6 @@
 JS_TS1 - TypeScript - type checker for JavaScript
 
-This course is designed for intermediate JavaScript programmers who want to use TypeScript for static type consistency control. Participants will learn both the basic concepts of type definitions as well as advanced concepts such as exhaustvness check clauses and type arithmetic. The course assumes knowledge of JavaScript at the [JS_ADV] course level.
+This course is designed for intermediate JavaScript programmers who want to use TypeScript for static type consistency control. Participants will learn both the basic concepts of type definitions as well as advanced concepts such as exhaustvness check clauses and type arithmetic. The course assumes knowledge of JavaScript at the [JS_PROG2] course level.
 
 #### Length
 
@@ -10,12 +10,12 @@ This course is designed for intermediate JavaScript programmers who want to use 
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_TS1
+    JS_PROG2 --> JS_TS1
 ```
 
 #### For whom the course is intended
 
-This course is designed for JavaScript developers who want to learn how to use typescript for static type checking of JavaScript code. Students are expected to know JavaScript at the level of the course [JS_ADV]
+This course is designed for JavaScript developers who want to learn how to use typescript for static type checking of JavaScript code. Students are expected to know JavaScript at the level of the course [JS_PROG2]
 
 #### What we will teach you
 
@@ -28,7 +28,7 @@ This course is designed for JavaScript developers who want to learn how to use t
 
 #### Required input knowledge
 
-- JavaScript at the course level [JS_ADV]
+- JavaScript at the course level [JS_PROG2]
 
 #### Teaching Methods
 
