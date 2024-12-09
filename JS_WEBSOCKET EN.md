@@ -8,7 +8,7 @@ This course is designed for intermediate JavaScript programmers who need more th
 
 #### Connection Graph
 
-``mermaid
+```mermaid
 graph TD
     JS_ADV --> JS_WEBSOCKET
 ```

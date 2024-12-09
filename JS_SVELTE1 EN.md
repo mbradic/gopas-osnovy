@@ -8,7 +8,7 @@ This course is designed for intermediate JS programmers who want to learn how to
 
 #### Continuity Graph
 
-``mermaid
+```mermaid
 graph TD
     JS_ADV --> JS_SVELTE1
     JS_DOM1 --> JS_SVELTE1

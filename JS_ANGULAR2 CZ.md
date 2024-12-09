@@ -1,4 +1,4 @@
-# JS_ANGULAR2 - Angular - pokročilé techniky
+# JS_ANGULAR2 - Angular II: Pokročilé techniky
 
 Kurz je určen pro programátory v jazyce TypeScript, kteří si chtějí prohloubit znalosti vývoje front-end aplikací pomocí knihovny Angular. Účastníci se seznámí s pokročilými technikami prezentace dat a tvorby formulářu, jakožto i pokročilé techniky komunikace mezi komponentami a dependency injection. Kurz předpokládá znalost jazyka TypeScript na úrovni kurzu [JS_TS1] a znalost knihovny Angular na úrovni kurzu [JS_ANGULAR1].
 

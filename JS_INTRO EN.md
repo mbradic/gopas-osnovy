@@ -8,7 +8,7 @@ This course is designed for anyone who wants to learn the basics of JavaScript s
 
 #### Continuity chart
 
-``mermaid
+```mermaid
 graph TD
     PRG --> JS_INTRO
 ```

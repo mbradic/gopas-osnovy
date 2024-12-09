@@ -9,7 +9,7 @@ The course assumes knowledge of basic JavaScript syntax at the [JS_INTRO] course
 
 #### Connection Chart
 
-``mermaid
+```mermaid
 graph TD
     JS_INTRO --> JS_ADV
 ```

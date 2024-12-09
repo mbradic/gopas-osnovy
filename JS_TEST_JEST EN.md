@@ -8,7 +8,7 @@ This course is designed for intermediate JavaScript programmers who want to lear
 
 #### Connection Graph
 
-``mermaid
+```mermaid
 TD graph
     JS_ADV --> JS_TEST_JEST
 ```

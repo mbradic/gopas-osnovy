@@ -4,7 +4,7 @@ The Bootstrap framework can greatly facilitate the creation of websites and appl
 Duration: 2 days
 
 #### Connection Chart
-``mermaid
+```mermaid
 graph TD
     PRG --> INTBSTRAP
 ```

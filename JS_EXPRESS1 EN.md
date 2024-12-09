@@ -8,7 +8,7 @@ This course is designed for programmers who want to use JavaScript server-side, 
 
 #### Connection Chart
 
-``mermaid
+```mermaid
 graph TD
   HTMLCSS --> JS_EXPRESS1
   JS_ADV --> JS_EXPRESS1

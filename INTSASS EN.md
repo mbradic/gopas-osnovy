@@ -4,7 +4,7 @@ Preprocessors, a kind of mix of programming and cascading styles, allow you to c
 Duration: 2 days
 
 #### Continuity Graph
-``mermaid
+```mermaid
 graph TD
     PRG --> GOC2124
 ```

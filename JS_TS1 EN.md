@@ -8,7 +8,7 @@ This course is designed for intermediate JavaScript programmers who want to use 
 
 #### Connection Graph
 
-``mermaid
+```mermaid
 graph TD
     JS_ADV --> JS_TS1
 ```

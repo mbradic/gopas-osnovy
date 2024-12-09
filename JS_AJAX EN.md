@@ -4,7 +4,7 @@ AJAX (and its successor Fetch API) allow a web application to send data to and f
 Duration: 2 days
 
 #### Connection Graph
-``mermaid
+```mermaid
 TD graph
     PRG --> GOC2124
 ```

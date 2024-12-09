@@ -8,7 +8,7 @@ This course is designed for intermediate JavaScript programmers who want to lear
 
 #### Continuity Graph
 
-``mermaid
+```mermaid
 graph TD
     JS_DOM1 --> JS_REDUX1
     JS_ADV --> JS_REDUX1

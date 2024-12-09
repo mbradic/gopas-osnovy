@@ -8,7 +8,7 @@ In this tutorial, we will learn about the popular Javascript framework Vue.js. T
 
 #### Connection Graph
 
-``mermaid
+```mermaid
 graph TD
     JS_ADV --> JS_VUE1
     JS_DOM1 --> JS_VUE1
