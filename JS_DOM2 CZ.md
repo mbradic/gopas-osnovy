@@ -1,4 +1,4 @@
-JS_API - JavaScriptová API JavaScript API  
+JS_DOM2 - JavaScriptová API JavaScript API  
 Teprve javascriptová API vestavěná v moderních prohlížečích jsou tím, co webovou stránku promění v plnohodnotnou webovou aplikaci ať už se to týká grafiky, interaktivity, práce s daty nebo načítání vstupů z reálného světa. Možnosti jsou omezené jen bezpečností a ochranou soukromí případně výkonem hardware.
 
 Délka: 3 dny
@@ -6,7 +6,8 @@ Délka: 3 dny
 #### Graf návazností
 ```mermaid
 graph TD
-    PRG --> GOC2124
+    JS_DOM1 --> JS_DOM2
+    JS_ADV --> JS_DOM2
 ```
 
 #### Co Vás naučíme
@@ -25,7 +26,7 @@ graph TD
 * Reakce na skrolování stránky, lazy-loading
 
 #### Požadované vstupní znalosti
-* Základní znalost JavaScriptu na úrovni kurzu INTJS.
+* Znalost JavaScriptu na úrovni kurzu JS_ADV a DOMu na úrovni kurzu JS_DOM1.
 
 #### Metody výuky
 * Odborný výklad s praktickými ukázkami, cvičení na počítačích.

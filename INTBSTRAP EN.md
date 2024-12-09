@@ -6,7 +6,7 @@ Duration: 2 days
 #### Connection Chart
 ``mermaid
 graph TD
-    PRG --> GOC2124
+    PRG --> INTBSTRAP
 ```
 
 #### What we will teach you
