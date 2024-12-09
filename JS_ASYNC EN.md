@@ -8,7 +8,7 @@ This course is designed for JavaScript programmers who want to improve their abi
 
 #### Connection Graph
 
-``mermaid
+```mermaid
 graph TD
     JS_PROG2 --> JS_ASYNC
 ```

@@ -1,6 +1,7 @@
 JS_TEST_JEST - Automated testing of JS applications using the Jest library
 
-This course is designed for intermediate JavaScript programmers who want to learn how to write automated tests using the Jest library. We will teach you not only how to design and implement tests, but also how to think economically and rationally about your testing efforts. To successfully complete the course, you need to know both functional and OOP approaches to JavaScript and a basic understanding of working with promises ([JS_PROG2]).
+This course is designed for intermediate JavaScript programmers who want to learn how to write automated tests using the Jest library. We will teach you not only how to design and implement tests, but also how to think economically and rationally about your testing efforts. To successfully complete the course, you need to know both functional and OOP approaches to JavaScript and a basic understanding of how to work with Promises at the [JS_PROG2] course level.
+
 
 #### Length
 
