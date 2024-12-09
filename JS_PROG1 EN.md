@@ -1,4 +1,4 @@
-JS_INTRO - JavaScript I: Basics
+JS_PROG1 - JavaScript I: Basics
 
 This course is designed for anyone who wants to learn the basics of JavaScript scripting language, use it on the client or server side of web applications or for testing, or as a stepping stone for TypeScript. Participants will learn about primitive and complex data types, variable declaration, using expressions and operators, creating and using functions, conditions and loops. They will also learn how to work with built-in objects such as String, Array, Date, and Math. The course also covers more advanced concepts such as anonymous functions, Arrow functions, Rest and Spread operators, and modules. The course is not suitable for complete beginners who have never programmed in any programming language; a basic knowledge of algorithmization and programming at the [PRG] course level is recommended, or basic experience programming in another language.
 

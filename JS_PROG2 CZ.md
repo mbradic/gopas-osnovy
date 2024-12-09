@@ -1,4 +1,4 @@
-JS_ADV - JavaScript II: Pokročilé techniky
+JS_PROG2 - JavaScript II: Pokročilé techniky
 
 Kurz je určen pro JS programátory, kteří již zvládli syntaxi jazyka a jou připraveni se seznámit se složitějšími konceptry, které přináší funkcionální a opběktově-orientované paradigma.Účastníci se též seznámí se správou chyb, prací s daty ve formátu JSON a se základy asynchroního programování. Cílem je přejít z programování izolovaných algorytmů na vývoj aplikací.
 Kurz předpokládá znalost základní syntaxe jazyka JavaScript na úrovni kurzu [JS_INTRO]
