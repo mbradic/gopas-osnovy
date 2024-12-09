@@ -1,10 +1,10 @@
-GOC2124 - Jazyk C# - programování I
+# JS_ANGULAR2 - Angular - pokročilé techniky
 
 Kurz je určen pro programátory v jazyce TypeScript, kteří si chtějí prohloubit znalosti vývoje front-end aplikací pomocí knihovny Angular. Účastníci se seznámí s pokročilými technikami prezentace dat a tvorby formulářu, jakožto i pokročilé techniky komunikace mezi komponentami a dependency injection. Kurz předpokládá znalost jazyka TypeScript na úrovni kurzu [JS_TS1] a znalost knihovny Angular na úrovni kurzu [JS_ANGULAR1].
 
 #### Délka
 
-4 dny
+5 dnů
 
 #### Graf návazností
 
@@ -16,19 +16,15 @@ graph TD
 
 #### Pro koho je kurz určen
 
+- Kurz je určen pro vývojáře Angular aplikací, kteří si chtějí prohloubit znalosti této platformy a tím optimalizovat výkon a zlepšit architekturu svých aplikací.
 
 #### Co Vás naučíme
 
-- Přehled platformy Microsoft .NET
-- Proměnné a hodnotové datové typy
-- Použití bloků programu, podmíneky a cyklů
-- Zpracování výjimek
-- Základy objektově orientovaného programování
-- Práce s referenčními typy
-- Kontruktory, finalizéry a uvolňování zdrojů
-- Dědičnost, virtuální metody, abstraktní třídy a Interface
-- Registrovat se k událostem
-- Používat vlastnosti a indexery
+- Pokročilé techniky prezentace dat
+- Pokročilé techniky pro formuláře
+- Podrobný přehled životního cyklu komponent a direktiv
+- Pokročilé techniky spolupráce komponent
+- Podrobné fungování dependency injection
 
 #### Požadované vstupní znalosti
 
