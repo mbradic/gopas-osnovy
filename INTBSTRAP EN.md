@@ -1,4 +1,4 @@
-# INTBSTRAP - Creating web applications using the Bootstrap framework  
+# INTBSTRAP - Creating web applications using the Bootstrap framework
 
 The Bootstrap framework can greatly facilitate the creation of websites and applications - pre-prepared CSS, JavaScript and a rich offer of reusable HTML components (layout, navigation, forms and many more). The framework is easy to install, fully responsive, mobile-friendly and accessible even for disabled users. The course will introduce you to the CSS and HTML concepts used and teach you how to adapt Bootstrap to the needs of your project.     
 
