@@ -1,10 +1,4 @@
-import {
-  readdirSync,
-  lstatSync,
-  readFileSync,
-  renameSync,
-  writeFileSync,
-} from "fs";
+import { readdirSync, readFileSync, renameSync, writeFileSync } from "fs";
 import readline from "readline";
 
 const rl = readline.createInterface({
@@ -79,11 +73,35 @@ const rules = [
   },
 ];
 
+const path = process.argv[2].startsWith("--") ? "." : argv[2];
+  {
+    id: 3,
+    description: "Course title must not contain trailing spaces.",
+    level: "error",
+    validate: (fileName) => {
+      const content = readFileSync(fileName, { encoding: "utf-8" });
+      const firstLine = content.split("\r\n")[0];
+      return !firstLine.endsWith(" ");
+    },
+    fix: (fileName) => {
+      const content = readFileSync(fileName, { encoding: "utf-8" });
+      const lines = content.split("\r\n");
+      lines[0] = lines[0].trim();
+      writeFileSync(fileName, lines.join("\r\n"));
+    },
+  },
+];
+
 const params = [process.argv[2], process.argv[3]];
 const fix = params.includes("--fix");
 const path = !fix ? params[0] ?? "." : getPathWhenFix(params);
 console.log(`Osnovy - lint ${path}`);
+
+const fixParamIndex = process.argv.findIndex((a) => a === "--fix");
+const fix = fixParamIndex > -1;
+
 if (fix) console.log("Linting and fixing: ");
+else console.log("Linting:");
 
 let success = true;
 
@@ -107,7 +125,8 @@ for (const file of fileNames) {
 
 if (success) console.log("All rules satisfied.");
 
-console.log("Finished linting.");
+if (fix) console.log("Finished linting and fixing.");
+else console.log("Finished linting.");
 
 rl.close();
 
