@@ -1,4 +1,4 @@
-# JS_ANGULAR1 - Úvod do frameworku ANGULAR
+JS_ANGULAR1 - Úvod do frameworku ANGULAR
 
 Kurz je určen pro programátory, kteří znají základy jazyka TypeScript a chtějí se naučit využívat služeb knihovny Angular ve svých front-end webových aplikacích. Naučíte se, mimo jiné, využívat data binding, html šablony, validovat vstupní data nebo komunikovat s back-end API, ale také navrhovat architekturu pro rozsáhlé Angular aplikace složené z mnoha komponent a služeb. Kurz předpokládá znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1] a znalost jazyka TypeScript na úrovni kurzu [JS_TS1].
 
