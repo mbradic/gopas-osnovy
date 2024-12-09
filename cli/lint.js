@@ -71,9 +71,6 @@ const rules = [
       writeFileSync(fileName, lines.join("\r\n"));
     },
   },
-];
-
-const path = process.argv[2].startsWith("--") ? "." : argv[2];
   {
     id: 3,
     description: "Course title must not contain trailing spaces.",
@@ -92,9 +89,8 @@ const path = process.argv[2].startsWith("--") ? "." : argv[2];
   },
 ];
 
-const params = [process.argv[2], process.argv[3]];
-const fix = params.includes("--fix");
-const path = !fix ? params[0] ?? "." : getPathWhenFix(params);
+let path = process.argv[2];
+if (!path || path.startsWith("--")) path = ".";
 console.log(`Osnovy - lint ${path}`);
 
 const fixParamIndex = process.argv.findIndex((a) => a === "--fix");
@@ -105,9 +101,8 @@ else console.log("Linting:");
 
 let success = true;
 
-const fileNames = readdirSync(path).filter(
-  (fileName) =>
-    fileName.toLowerCase().endsWith(".md")
+const fileNames = readdirSync(path).filter((fileName) =>
+  fileName.toLowerCase().endsWith(".md")
 );
 
 for (const file of fileNames) {
