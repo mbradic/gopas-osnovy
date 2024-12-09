@@ -8,7 +8,7 @@ Délka: 3 dny
 ```mermaid
 graph TD
     JS_DOM1 --> JS_DOM2
-    JS_ADV --> JS_DOM2
+    JS_PROG2 --> JS_DOM2
 ```
 
 #### Co Vás naučíme
@@ -27,7 +27,7 @@ graph TD
 * Reakce na skrolování stránky, lazy-loading
 
 #### Požadované vstupní znalosti
-* Znalost JavaScriptu na úrovni kurzu JS_ADV a DOMu na úrovni kurzu JS_DOM1.
+* Znalost JavaScriptu na úrovni kurzu JS_PROG2 a DOMu na úrovni kurzu JS_DOM1.
 
 #### Metody výuky
 * Odborný výklad s praktickými ukázkami, cvičení na počítačích.

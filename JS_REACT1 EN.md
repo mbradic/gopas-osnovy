@@ -1,6 +1,6 @@
-# JS_REACT1 - React.js I: Basics
+JS_REACT1 - React I: Basics
 
-This course is designed for intermediate JavaScript programmers who want to learn the basics of front-end web application development using the React framework. The student will learn the basics of React application development, such as presenting data, responding to user events, creating forms, and communicating with the back-end and navigation. You will also learn the basics of React application architecture and design, using concepts such as components, properties, hooks, and managing your own. The course assumes knowledge of the DOM object model in the browser at the [JS_DOM1] course level and moderately advanced knowledge of JavaScript at the [JS_ADV] course level.
+This course is designed for intermediate JavaScript programmers who want to learn the basics of front-end web application development using the React framework. The student will learn the basics of React application development, such as presenting data, responding to user events, creating forms, and communicating with the back-end and navigation. You will also learn the basics of React application architecture and design, using concepts such as components, properties, hooks, and managing your own. The course assumes knowledge of the DOM object model in the browser at the [JS_DOM1] course level and moderately advanced knowledge of JavaScript at the [JS_PROG2] course level.
 
 #### Length
 
@@ -11,7 +11,7 @@ This course is designed for intermediate JavaScript programmers who want to lear
 ```mermaid
 graph TD
     JS_DOM1 --> JS_REACT1
-    JS_ADV --> JS_REACT1
+    JS_PROG2 --> JS_REACT1
 ```
 
 #### For whom the course is intended
@@ -29,7 +29,7 @@ This course is designed for intermediate JavaScript programmers who want to lear
 - Manage application status
 #### Required entry knowledge
 
-- JS at the level of [JS_DOM1] and [JS_ADV]
+- JS at the level of [JS_DOM1] and [JS_PROG2]
 
 #### Teaching methods
 

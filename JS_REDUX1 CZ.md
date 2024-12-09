@@ -1,6 +1,6 @@
 # JS_REDUXJS1 - Redux a jeho implementace v Angular a React aplikacích
 
-Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří se chtějí naučit spravovat stav svých front-end aplikací pomocí knihovny Redux. Účastníci se seznámí s používáním objektů a funckí, které tato knihovna nabízí pro aplikace vyvíjené v Reactu nebo Angularu. Kurz předpokládá znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1] a mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_ADV].
+Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří se chtějí naučit spravovat stav svých front-end aplikací pomocí knihovny Redux. Účastníci se seznámí s používáním objektů a funckí, které tato knihovna nabízí pro aplikace vyvíjené v Reactu nebo Angularu. Kurz předpokládá znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1] a mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_PROG2].
 
 #### Délka
 
@@ -11,7 +11,7 @@ Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteř�
 ```mermaid
 graph TD
     JS_DOM1 --> JS_REDUX1
-    JS_ADV  --> JS_REDUX1
+    JS_PROG2  --> JS_REDUX1
 ```
 
 #### Pro koho je kurz určen
@@ -27,7 +27,7 @@ Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteř�
 #### Požadované vstupní znalosti
 
 - znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1]
-- mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_ADV]
+- mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_PROG2]
 
 #### Metody výuky
 

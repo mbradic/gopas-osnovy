@@ -79,9 +79,13 @@ const fileNames = readdirSync(path).filter(
 for (const file of fileNames) {
   for (const rule of rules)
     if (!rule.validate(file)) {
-      printIssue(file, rule);
-      if (fix) rule.fix(file);
-      else success = false;
+      if (fix) {
+        rule.fix(file);
+        printFix(file, rule);
+      } else {
+        success = false;
+        printIssue(file, rule);
+      }
     }
 }
 
@@ -100,5 +104,11 @@ function printIssue(fileName, rule) {
     `${rule.level.toUpperCase()}: File ${fileName} violating rule ${rule.id}: ${
       rule.description
     }`
+  );
+}
+
+function printFix(fileName, rule) {
+  console.log(
+    `FIXED: File ${fileName} violating rule ${rule.id}: ${rule.description}`
   );
 }

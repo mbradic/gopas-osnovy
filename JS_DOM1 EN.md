@@ -11,7 +11,7 @@ This course focuses on the use of JavaScript in the context of a dynamic HTML pa
 ```mermaid
 graph TD
     HTMLCSS --> JS_DOM1
-    JS_INTRO --> JS_DOM1
+    JS_PROG1 --> JS_DOM1
 ```
 
 #### For whom the course is intended
@@ -30,7 +30,7 @@ This course is designed for novice JS programmers who are already familiar with 
 #### Required input knowledge
 
 - Basic knowledge of HTML at the [HTMLCSS] course level.
-- Course-level knowledge of JavaScript syntax [JS_INTRO].
+- Course-level knowledge of JavaScript syntax [JS_PROG1].
 
 #### Teaching methods
 
