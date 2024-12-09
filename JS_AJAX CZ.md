@@ -6,7 +6,7 @@ Délka: 2 dny
 #### Graf návazností
 ```mermaid
 graph TD
-    PRG --> GOC2124
+    JS_PROG1 --> JS_AJAX
 ```
 
 #### Co Vás naučíme

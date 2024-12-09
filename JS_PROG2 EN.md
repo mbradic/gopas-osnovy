@@ -1,7 +1,7 @@
-# JS_ADV - JavaScript II: Advanced techniques
+JS_PROG2 - JavaScript II: Advanced techniques
 
 This course is designed for JS programmers who have already mastered the syntax of the language and are ready to learn the more complex concepts introduced by the functional and object-oriented paradigm.Participants will also learn about error handling, working with JSON data, and the basics of asynchronous programming. The goal is to move from programming isolated algorithms to application development.
-The course assumes knowledge of basic JavaScript syntax at the [JS_INTRO] course level.
+The course assumes knowledge of basic JavaScript syntax at the [JS_PROG1] course level.
 
 #### Length
 
@@ -11,7 +11,7 @@ The course assumes knowledge of basic JavaScript syntax at the [JS_INTRO] course
 
 ```mermaid
 graph TD
-    JS_INTRO --> JS_ADV
+    JS_PROG1 --> JS_PROG2
 ```
 
 #### For whom the course is intended

@@ -1,6 +1,6 @@
 # JS_WEBSOCKET - Creating JS applications using the WebSocket protocol
 
-This course is designed for intermediate JavaScript programmers who need more than the HTTP Request/Response model in their applications. WebSocket protocol allows the server to notify one or more clients or stream data. Attendees will learn about the use of this protocol in web postings. This course assumes knowledge of JavaScript at the [JS_ADV] course level.
+This course is designed for intermediate JavaScript programmers who need more than the HTTP Request/Response model in their applications. WebSocket protocol allows the server to notify one or more clients or stream data. Attendees will learn about the use of this protocol in web postings. This course assumes knowledge of JavaScript at the [JS_PROG2] course level.
 
 #### Length
 
@@ -10,12 +10,12 @@ This course is designed for intermediate JavaScript programmers who need more th
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_WEBSOCKET
+    JS_PROG2 --> JS_WEBSOCKET
 ```
 
 #### For whom the course is intended
 
-- This course is intended for JS programmers who know JavaScript at the [JS_ADV] course level.
+- This course is intended for JS programmers who know JavaScript at the [JS_PROG2] course level.
 
 #### What we will teach you
 
@@ -25,7 +25,7 @@ graph TD
 
 #### Prerequisite skills
 
-- JavaScript at course level [JS_ADV]
+- JavaScript at course level [JS_PROG2]
 
 #### Teaching Methods
 

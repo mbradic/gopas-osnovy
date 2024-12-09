@@ -1,6 +1,6 @@
 # JS_ASYNC - Asynchronní a reaktivní programování v JavaScriptu
 
-Kurz je určen pro JavaScript programátory, kteří si chtějí zdokonalit psaní asynchronního kódu v tomto jazyce. Ukážeme vám jak používat vestavěné asynchronní mechanismy, jako jsou timery, funkce fetch, nebo asynchronní přístup na filesystém z Node.js. Vysvětlíme si objekt Promise a klíčová slova async a await, ale také externí knihovnu rxjs a její Observables. Kurz předpokládá mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_ADV].
+Kurz je určen pro JavaScript programátory, kteří si chtějí zdokonalit psaní asynchronního kódu v tomto jazyce. Ukážeme vám jak používat vestavěné asynchronní mechanismy, jako jsou timery, funkce fetch, nebo asynchronní přístup na filesystém z Node.js. Vysvětlíme si objekt Promise a klíčová slova async a await, ale také externí knihovnu rxjs a její Observables. Kurz předpokládá mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_PROG2].
 
 #### Délka
 
@@ -10,7 +10,7 @@ Kurz je určen pro JavaScript programátory, kteří si chtějí zdokonalit psan
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_ASYNC
+    JS_PROG2 --> JS_ASYNC
 ```
 
 #### Pro koho je kurz určen
@@ -28,7 +28,7 @@ Kurz je určen pro JavaScript programátory, kteří si chtějí zdokonalit psan
 
 #### Požadované vstupní znalosti
 
-- Znalost jazyka JavaScript na úrovní kurzu [JS_ADV]
+- Znalost jazyka JavaScript na úrovní kurzu [JS_PROG2]
 
 #### Metody výuky
 

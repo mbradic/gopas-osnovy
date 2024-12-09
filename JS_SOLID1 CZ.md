@@ -1,6 +1,6 @@
 # JS_SOLID1 - Úvod do frameworku Solid.js
 
-Kurz je určen pro mírně pokročilé JS programátory, kteří se chtějí naučit vytvářet front-end aplikace pomocí frameworku SolidJS. Účastníci se seznámí s prezentací dat, prací s formuláři, komunikace s backendem a to vše pomocí komponent, signálů a efektů, teré knihovna SolidJS nabízí. Kurz předpokládá znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1] a mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_ADV].
+Kurz je určen pro mírně pokročilé JS programátory, kteří se chtějí naučit vytvářet front-end aplikace pomocí frameworku SolidJS. Účastníci se seznámí s prezentací dat, prací s formuláři, komunikace s backendem a to vše pomocí komponent, signálů a efektů, teré knihovna SolidJS nabízí. Kurz předpokládá znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1] a mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_PROG2].
 
 #### Délka
 
@@ -10,7 +10,7 @@ Kurz je určen pro mírně pokročilé JS programátory, kteří se chtějí nau
 
 ```mermaid
 graph TD
-    JS_ADV --> JS_SOLID1
+    JS_PROG2 --> JS_SOLID1
     JS_DOM1 --> JS_SOLID1
 ```
 
@@ -28,7 +28,7 @@ graph TD
 
 #### Požadované vstupní znalosti
 
-- JavaScript na úrovni kurzu [JS_ADV]
+- JavaScript na úrovni kurzu [JS_PROG2]
 - Znalost fungování DOM v prohlížeči na úrovni kurzu [JS_DOM1]
 
 #### Metody výuky

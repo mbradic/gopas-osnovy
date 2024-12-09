@@ -8,7 +8,7 @@ Duration: 3 days
 ```mermaid
 graph TD
     JS_DOM1 --> JS_DOM2
-    JS_ADV --> JS_DOM2
+    JS_PROG2 --> JS_DOM2
 ```
 
 #### What we will teach you
@@ -27,7 +27,7 @@ graph TD
 * Response to page scrolling, lazy-loading
 
 #### Required entry skills
-* Knowledge of JavaScript at the JS_ADV course level and DOM at the JS_DOM1 course level.
+* Knowledge of JavaScript at the JS_PROG2 course level and DOM at the JS_DOM1 course level.
 
 #### Teaching methods
 * Expert lecture with practical demonstrations, computer exercises.

@@ -7,11 +7,11 @@ graph LR
         HTMLCSS
     end
     subgraph Začátečníci
-        JS_INTRO
+        JS_PROG1
         JS_DOM1
     end
     subgraph Pokročilý
-        JS_ADV
+        JS_PROG2
         JS_TS1
         subgraph Front-end
             JS_REACT1
@@ -36,26 +36,26 @@ graph LR
         ANGULAR_Nx
     end
 
-    PRG --> JS_INTRO
+    PRG --> JS_PROG1
     HTMLCSS --> JS_DOM1
     
     JS_DOM1 --> Front-end
-    JS_ADV  --> Front-end
+    JS_PROG2  --> Front-end
 
     HTMLCSS --> Back-end
-    JS_ADV  --> Back-end
+    JS_PROG2  --> Back-end
     
-    JS_ADV --> Expert
+    JS_PROG2 --> Expert
     
-    JS_INTRO --> JS_DOM1
-    JS_INTRO --> JS_ADV
+    JS_PROG1 --> JS_DOM1
+    JS_PROG1 --> JS_PROG2
     
-    JS_ADV --> JS_TS1
+    JS_PROG2 --> JS_TS1
     JS_TS1 --> JS_ANGULAR1
     
-    JS_ADV --> JS_WEBSOCKET
+    JS_PROG2 --> JS_WEBSOCKET
 
-    JS_ADV --> JS_TEST_JEST
+    JS_PROG2 --> JS_TEST_JEST
 
     JS_REACT1 --> JS_REACT2
     
