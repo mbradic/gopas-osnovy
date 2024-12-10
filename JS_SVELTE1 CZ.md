@@ -1,4 +1,4 @@
-JS_SVELTE1 - Úvod do frameworku Svelte
+# JS_SVELTE1 - Úvod do frameworku Svelte
 
 Kurz je určen pro mírně pokročilé JS programátory, kteří se chtějí naučit vytvářet front-end aplikace pomocí frameworku Svelte. Účastníci se seznámí se základy front-end vývoje (prezentace dat, události, formuláře, komunikace s back-end api, navigace), pomocí knihovny SVELTE. Kurz předpokládá znalost objektového modelu DOM v prohlížeči na úrovni kurzu [JS_DOM1] a mírně pokročilé znalosti JavaScriptu na úrovni kurzu [JS_PROG2].
 

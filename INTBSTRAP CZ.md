@@ -1,4 +1,4 @@
-INTBSTRAP - Tvorba webových aplikací pomocí frameworku Bootstrap  
+# INTBSTRAP - Tvorba webových aplikací pomocí frameworku Bootstrap
 
 Tvorbu webových stránek a aplikací může výrazně usnadnit framework Bootstrap - předem připravené CSS, JavaScript a bohatá nabídka znovupoužitelných HTML komponent (layout, navigace, formuláře a mnoho dalších). Framework se jednoduše instaluje, je kompletně responsivní, mobile-friendly a přístupný i hendikepovaným uživatelům. Na kurzu se seznámíte s použitými koncepty CSS a HTML a naučíte se Bootstrap přizpůsobit potřebám vašeho projektu.     
 

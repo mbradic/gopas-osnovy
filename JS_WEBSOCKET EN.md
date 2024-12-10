@@ -1,4 +1,4 @@
-JS_WEBSOCKET - Creating JS applications using the WebSocket protocol
+# JS_WEBSOCKET - Creating JS applications using the WebSocket protocol
 
 This course is designed for intermediate JavaScript programmers who need more than the HTTP Request/Response model in their applications. WebSocket protocol allows the server to notify one or more clients or stream data. Attendees will learn about the use of this protocol in web postings. This course assumes knowledge of JavaScript at the [JS_PROG2] course level.
 
@@ -57,4 +57,3 @@ WS client
 - Duplex and streaming
 
 Use/share an existing HTTP server
-

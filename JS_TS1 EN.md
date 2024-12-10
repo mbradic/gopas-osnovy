@@ -1,4 +1,4 @@
-JS_TS1 - TypeScript - type checker for JavaScript
+# JS_TS1 - TypeScript - type checker for JavaScript
 
 This course is designed for intermediate JavaScript programmers who want to use TypeScript for static type consistency control. Participants will learn both the basic concepts of type definitions as well as advanced concepts such as exhaustvness check clauses and type arithmetic. The course assumes knowledge of JavaScript at the [JS_PROG2] course level.
 

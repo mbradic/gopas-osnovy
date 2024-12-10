@@ -1,4 +1,4 @@
-JS_TEST_JEST - Automatizované testování JS aplikací pomocí knihovny Jest
+# JS_TEST_JEST - Automatizované testování JS aplikací pomocí knihovny Jest
 
 Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteří se chtějí naučit psát automatizované testy pomocí knihovny Jest. Naučíme vás nejen testy navrhovat a implementovat, ale také o testovací snaze přemýšlet ekonomicky a racionálně. Pro úspěšné absolvování kurzu potřebujete umět jak funkcionální, tak OOP přístup k JavaScriptu a základní znalost práce s promisy na úrovni kurzu [JS_PROG2].
 

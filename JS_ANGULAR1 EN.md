@@ -1,4 +1,4 @@
-JS_ANGULAR1 - Angular I: Basics
+# JS_ANGULAR1 - Angular I: Basics
 
 This course is designed for programmers who know the basics of TypeScript and want to learn how to use the Angular library services in their front-end web applications. You will learn, among other things, to use data binding, html templates, validate input data or interact with back-end APIs, but also to design architecture for large Angular applications composed of many components and services. The course assumes knowledge of the DOM object model in the browser at the course level [JS_DOM1] and knowledge of TypeScript at the course level [JS_TS1].
 
