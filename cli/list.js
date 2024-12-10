@@ -1,37 +1,35 @@
 import { readdirSync, lstatSync, readFileSync, writeFileSync } from "fs";
 
-const path = process.argv[2].startsWith("--") ? "." : argv[2];
-console.log(`Osnovy - list ${path}`);
+export default function list(params, switches) {
+  const path = params[0] ?? ".";
+  console.log(`Osnovy - list ${path}`);
 
-let language = "CZ";
-const languageParamIndex = process.argv.findIndex((a) => a == "--language");
-if (languageParamIndex > -1) language = argv[languageParamIndex + 1];
-console.log(`Filtering for language: ${language}`);
+  const lang = switches.lang ?? "CZ";
+  console.log(`Filtering for language: ${lang}`);
 
-let writeToFile = "";
-const outParamIndex = process.argv.findIndex((a) => a === "--out");
-if (outParamIndex > -1) writeToFile = process.argv[outParamIndex + 1];
-if (writeToFile) console.log(`Writing output to file: ${writeToFile}`);
+  const { out } = switches;
+  if (out) console.log(`Writing output to file: ${out}`);
 
-const fileNames = readdirSync(path).filter(
-  (fileName) =>
-    lstatSync(fileName).isFile() &&
-    fileName.toLowerCase().endsWith(`${language.toLowerCase()}.md`)
-);
+  const fileNames = readdirSync(path).filter(
+    (fileName) =>
+      lstatSync(fileName).isFile() &&
+      fileName.toLowerCase().endsWith(`${lang.toLowerCase()}.md`)
+  );
 
-const courses = [];
-for (const fileName of fileNames) {
-  const [name] = fileName.split(".");
-  const [courseCode] = name.split(" ");
-  const content = readFileSync(fileName, { encoding: "utf-8" });
-  const courseName = content
-    .split("\r\n")[0]
-    .substring(2)
-    .split(" ")
-    .slice(2)
-    .join(" ");
-  courses.push({ code: courseCode, name: courseName });
+  const courses = [];
+  for (const fileName of fileNames) {
+    const [name] = fileName.split(".");
+    const [courseCode] = name.split(" ");
+    const content = readFileSync(fileName, { encoding: "utf-8" });
+    const courseName = content
+      .split("\r\n")[0]
+      .substring(2)
+      .split(" ")
+      .slice(2)
+      .join(" ");
+    courses.push({ code: courseCode, name: courseName });
+  }
+  if (out) writeFileSync(out, JSON.stringify(courses));
+  console.table(courses);
+  console.log(`Finished listing ${path}`);
 }
-if (writeToFile) writeFileSync(writeToFile, JSON.stringify(courses));
-console.table(courses);
-console.log(`Finished listing ${path}`);
