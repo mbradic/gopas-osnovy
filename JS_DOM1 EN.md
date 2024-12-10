@@ -10,7 +10,7 @@ This course focuses on the use of JavaScript in the context of a dynamic HTML pa
 
 ```mermaid
 graph TD
-    HTMLCSS --> JS_DOM1
+    INTHTML --> JS_DOM1
     JS_PROG1 --> JS_DOM1
 ```
 

@@ -10,7 +10,7 @@ Kurz je určen pro programátory, kteří chtějí použít JavaScript na stran�
 
 ```mermaid
 graph TD
-  HTMLCSS --> JS_EXPRESS1
+  INTHTML --> JS_EXPRESS1
   JS_PROG2 --> JS_EXPRESS1
 ```
 

@@ -8,11 +8,11 @@ Kurz je určen pro mírně pokročilé programátory v jazyce JavaScript, kteř�
 
 #### Graf návazností
 
-```mermaid
-graph TD
-    JS_DOM1 --> JS_REACT1
-    JS_PROG2  --> JS_REACT1
-```
+    ```mermaid
+    graph TD
+        JS_DOM1 --> JS_REACT1
+        JS_PROG2  --> JS_REACT1
+    ```
 
 #### Pro koho je kurz určen
 

@@ -10,7 +10,7 @@ This course is designed for programmers who want to use JavaScript server-side, 
 
 ```mermaid
 graph TD
-  HTMLCSS --> JS_EXPRESS1
+  INTHTML --> JS_EXPRESS1
   JS_PROG2 --> JS_EXPRESS1
 ```
 

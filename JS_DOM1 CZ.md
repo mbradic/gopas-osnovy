@@ -10,7 +10,7 @@ Kurz se věnuje využití jazyka JavaScript v kontextu dynamické HTML stránky.
 
 ```mermaid
 graph TD
-    HTMLCSS --> JS_DOM1
+    INTHTML --> JS_DOM1
     JS_PROG1 --> JS_DOM1
 ```
 

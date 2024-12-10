@@ -6,7 +6,7 @@ Duration: 2 days
 #### Connection Graph
 ```mermaid
 TD graph
-    JS_PROG1 --> JS_AJAX
+    PRG --> GOC2124
 ```
 
 #### What we will teach you
